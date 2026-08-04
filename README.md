@@ -58,3 +58,38 @@ This laboratory follows modern Quality Engineering practices:
 ---
 
 ## Repository Structure
+Quality-Engineering-Lab/
+│
+├── README.md
+│
+├── docs/
+│ ├── project-overview.md
+│ ├── quality-strategy.md
+│ ├── architecture.md
+│ ├── glossary.md
+│ └── contribution-guide.md
+│
+├── case-studies/
+│ ├── juice-shop/
+│ │ ├── README.md
+│ │ ├── discovery/
+│ │ ├── business-analysis/
+│ │ ├── bdd/
+│ │ ├── api-testing/
+│ │ ├── ui-testing/
+│ │ ├── performance/
+│ │ ├── defects/
+│ │ └── lessons-learned/
+│ └── apache-fineract/
+│
+├── tooling/
+│ ├── postman/
+│ ├── playwright/
+│ ├── k6/
+│ ├── ai/
+│ └── templates/
+│
+└── learning/
+├── architecture-decision-records/
+├── research/
+└── notes/
