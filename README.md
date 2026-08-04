@@ -78,22 +78,22 @@ This laboratory follows modern Quality Engineering practices:
 
 ## Technology Stack
 
-**Engineering Tools**
+### Engineering Tools
 
-*Collaboration*
+#### Collaboration
 - GitHub
 - Jira
 
-*API Testing*
+#### API Testing
 - Postman
 
-*UI Automation*
+#### UI Automation
 - Playwright
 
-*Performance*
+#### Performance
 - k6
 
-*CI/CD*
+#### CI/CD
 - GitHub Actions
 
 **AI Collaborators**
