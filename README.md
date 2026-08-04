@@ -96,7 +96,7 @@ This laboratory follows modern Quality Engineering practices:
 #### CI/CD
 - GitHub Actions
 
-**AI Collaborators**
+### AI-Assisted Workflow
 
 | AI              | Laboratory Role                                                 |
 |------------------|------------------------------------------------------------------|
@@ -132,6 +132,7 @@ Quality-Engineering-Lab/
 ```
 
 ## 🧪 Case Studies
+> Progress is updated incrementally as each sprint is completed.
 
 ### OWASP Juice Shop
 - ✅ Business Discovery
@@ -166,3 +167,4 @@ incrementally expands the laboratory capabilities.
 - Architecture Decision Records (ADR)
 - Research Notes
 - Lessons Learned
+- Retrospectives
