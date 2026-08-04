@@ -37,3 +37,112 @@ The main objectives are:
 ---
 
 ## Engineering Workflow
+Business Discovery
+│
+▼
+Requirements Elicitation
+│
+▼
+Risk Analysis
+│
+▼
+Three Amigos
+│
+▼
+BDD
+│
+▼
+API Testing
+│
+▼
+UI Automation
+│
+▼
+Performance Testing
+│
+▼
+Continuous Improvement
+---
+
+## Quality Engineering Principles
+
+This laboratory follows modern Quality Engineering practices:
+
+- Shift-Left Testing
+- Three Amigos Collaboration
+- Business-Driven Development (BDD)
+- Risk-Based Testing
+- AI-assisted Quality Engineering
+- Continuous Testing
+- Evidence-driven Documentation
+
+---
+
+## Technology Stack
+
+**Engineering Tools**
+
+- GitHub
+- Jira
+- Postman
+- Playwright
+- k6
+- GitHub Actions
+
+**AI Collaborators**
+
+| AI              | Laboratory Role                                                 |
+|------------------|------------------------------------------------------------------|
+| Claude           | Simulated Product Owner, Business Analyst and Technical Writer   |
+| ChatGPT          | Quality Engineering Lead, Reviewer and Coach                     |
+| GitHub Copilot   | Pair Programmer                                                   |
+| Postbot          | API Testing Assistant                                             |
+| Gemini           | Research Assistant                                                 |
+
+**Engineering Practices**
+
+- Scrum
+- BDD
+- Shift-Left
+- Risk-Based Testing
+- Three Amigos
+- Continuous Testing
+- Test Automation
+- Performance Testing
+
+---
+
+## 🧪 Case Studies
+
+### OWASP Juice Shop
+- Business Discovery
+- Risk Analysis
+- BDD
+- API Testing
+- UI Automation
+- Performance Testing
+
+### Apache Fineract *(Coming Soon)*
+
+---
+
+## 🎯 Roadmap
+
+Each sprint represents a professional learning milestone and
+incrementally expands the laboratory capabilities.
+
+- [ ] **Sprint 0** — Project Initialization
+- [ ] **Sprint 1** — Business Discovery
+- [ ] **Sprint 2** — Authentication
+- [ ] **Sprint 3** — Shopping Experience
+- [ ] **Sprint 4** — Order Processing
+- [ ] **Sprint 5** — Performance Engineering
+- [ ] **Sprint 6** — Continuous Quality
+
+---
+
+## 📖 Learning Journey
+
+- Architecture Decision Records (ADR)
+- Research Notes
+- Lessons Learned
