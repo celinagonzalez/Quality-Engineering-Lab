@@ -37,31 +37,17 @@ The main objectives are:
 ---
 
 ## Engineering Workflow
-Business Discovery
-│
-▼
-Requirements Elicitation
-│
-▼
-Risk Analysis
-│
-▼
-Three Amigos
-│
-▼
-BDD
-│
-▼
-API Testing
-│
-▼
-UI Automation
-│
-▼
-Performance Testing
-│
-▼
-Continuous Improvement
+```mermaid
+flowchart TD
+    A[Business Discovery] --> B[Requirements Elicitation]
+    B --> C[Risk Analysis]
+    C --> D[Three Amigos]
+    D --> E[BDD]
+    E --> F[API Testing]
+    F --> G[UI Automation]
+    G --> H[Performance Testing]
+    H --> I[Continuous Improvement]
+```
 ---
 
 ## Quality Engineering Principles
