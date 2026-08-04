@@ -132,9 +132,9 @@ Quality-Engineering-Lab/
 ```
 
 ## 🧪 Case Studies
-> Progress is updated incrementally as each sprint is completed.
 
 ### OWASP Juice Shop
+> Progress is updated incrementally as each sprint is completed.
 - ✅ Business Discovery
 - ⬜ Risk Analysis
 - ⬜ Three Amigos
