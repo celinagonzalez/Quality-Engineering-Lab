@@ -58,38 +58,42 @@ This laboratory follows modern Quality Engineering practices:
 ---
 
 ## Repository Structure
-Quality-Engineering-Lab/
-│
-├── README.md
-│
-├── docs/
-│ ├── project-overview.md
-│ ├── quality-strategy.md
-│ ├── architecture.md
-│ ├── glossary.md
-│ └── contribution-guide.md
-│
-├── case-studies/
-│ ├── juice-shop/
-│ │ ├── README.md
-│ │ ├── discovery/
-│ │ ├── business-analysis/
-│ │ ├── bdd/
-│ │ ├── api-testing/
-│ │ ├── ui-testing/
-│ │ ├── performance/
-│ │ ├── defects/
-│ │ └── lessons-learned/
-│ └── apache-fineract/
-│
-├── tooling/
-│ ├── postman/
-│ ├── playwright/
-│ ├── k6/
-│ ├── ai/
-│ └── templates/
-│
-└── learning/
-├── architecture-decision-records/
-├── research/
-└── notes/
+📚 Full documentation available in [`docs/`](docs/):
+[Project Overview](docs/project-overview.md) ·
+[Quality Strategy](docs/quality-strategy.md) ·
+[Architecture](docs/architecture.md) ·
+[Glossary](docs/glossary.md)
+
+---
+
+## 🧪 Case Studies
+
+### OWASP Juice Shop
+- Business Discovery
+- Risk Analysis
+- BDD
+- API Testing
+- UI Automation
+- Performance Testing
+
+### Apache Fineract *(Coming Soon)*
+
+---
+
+## 🎯 Roadmap
+
+- [ ] **Sprint 0** — Project Initialization
+- [ ] **Sprint 1** — Business Discovery
+- [ ] **Sprint 2** — Authentication
+- [ ] **Sprint 3** — Shopping Experience
+- [ ] **Sprint 4** — Order Processing
+- [ ] **Sprint 5** — Performance Engineering
+- [ ] **Sprint 6** — Continuous Quality
+
+---
+
+## 📖 Learning Journey
+
+- Architecture Decision Records (ADR)
+- Research Notes
+- Lessons Learned
