@@ -106,6 +106,8 @@ This laboratory follows modern Quality Engineering practices:
 ---
 
 ## Repository Structure
+
+```
 Quality-Engineering-Lab/
 │
 ├── docs/
@@ -113,7 +115,7 @@ Quality-Engineering-Lab/
 │   ├── juice-shop/
 ├── tooling/
 └── learning/
----
+```
 
 ## 🧪 Case Studies
 
