@@ -20,80 +20,20 @@ Engineer across the entire SDLC.
 
 ---
 
-## Quality Engineering Principles
+## Objectives
 
-This laboratory follows modern Quality Engineering practices:
+This laboratory aims to demonstrate professional Quality Engineering
+practices beyond traditional software testing.
 
-- Shift-Left Testing
-- Three Amigos Collaboration
-- Business-Driven Development (BDD)
-- Risk-Based Testing
-- AI-assisted Quality Engineering
-- Continuous Testing
-- Evidence-driven Documentation
+The main objectives are:
 
----
-
-## Technology Stack
-
-**Tools**
-
-- GitHub
-- Jira
-- Postman
-- Playwright
-- k6
-- GitHub Actions
-
-**AI Collaborators**
-
-| AI                  | Primary Role                                        |
-|---------------------|-------------------------------------------------------|
-| **Claude**          | Product Owner + Business Analyst + Technical Writer  |
-| **ChatGPT**         | QA Lead + Quality Engineering Coach + Reviewer       |
-| **GitHub Copilot**  | Pair Programmer                                       |
-| **Postbot**         | API Testing Assistant                                 |
-| **Gemini**          | Research Assistant                                     |
+- Understand business domains before designing tests.
+- Prevent defects through early collaboration and requirement analysis.
+- Apply Shift-Left Quality Engineering practices.
+- Build maintainable and evidence-driven documentation.
+- Integrate AI responsibly throughout the software delivery lifecycle.
+- Continuously evolve technical and testing skills through real case studies.
 
 ---
 
-## Repository Structure
-📚 Full documentation available in [`docs/`](docs/):
-[Project Overview](docs/project-overview.md) ·
-[Quality Strategy](docs/quality-strategy.md) ·
-[Architecture](docs/architecture.md) ·
-[Glossary](docs/glossary.md)
-
----
-
-## 🧪 Case Studies
-
-### OWASP Juice Shop
-- Business Discovery
-- Risk Analysis
-- BDD
-- API Testing
-- UI Automation
-- Performance Testing
-
-### Apache Fineract *(Coming Soon)*
-
----
-
-## 🎯 Roadmap
-
-- [ ] **Sprint 0** — Project Initialization
-- [ ] **Sprint 1** — Business Discovery
-- [ ] **Sprint 2** — Authentication
-- [ ] **Sprint 3** — Shopping Experience
-- [ ] **Sprint 4** — Order Processing
-- [ ] **Sprint 5** — Performance Engineering
-- [ ] **Sprint 6** — Continuous Quality
-
----
-
-## 📖 Learning Journey
-
-- Architecture Decision Records (ADR)
-- Research Notes
-- Lessons Learned
+## Engineering Workflow
