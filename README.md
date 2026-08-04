@@ -28,26 +28,24 @@ practices beyond traditional software testing.
 The main objectives are:
 
 - Understand business domains before designing tests.
-- Prevent defects through early collaboration and requirement analysis.
+- Prevent defects through early collaboration.
 - Apply Shift-Left Quality Engineering practices.
-- Build maintainable and evidence-driven documentation.
-- Integrate AI responsibly throughout the software delivery lifecycle.
-- Continuously evolve technical and testing skills through real case studies.
+- Produce maintainable, evidence-driven documentation.
+- Integrate AI responsibly throughout the SDLC.
+- Continuously improve engineering and testing skills.
 
 ---
 
 ## Engineering Workflow
+
 ```mermaid
 flowchart TD
     A[Business Discovery] --> B[Requirements Elicitation]
-    B --> C[Risk Analysis]
-    C --> D[Three Amigos]
+    B --> C[Three Amigos]
+    C --> D[Risk Analysis]
     D --> E[BDD]
-    E --> F[API Testing]
-    F --> G[UI Automation]
-    G --> H[Performance Testing]
-    H --> I[Continuous Improvement]
 ```
+
 ---
 
 ## Quality Engineering Principles
@@ -68,11 +66,20 @@ This laboratory follows modern Quality Engineering practices:
 
 **Engineering Tools**
 
+*Collaboration*
 - GitHub
 - Jira
+
+*API Testing*
 - Postman
+
+*UI Automation*
 - Playwright
+
+*Performance*
 - k6
+
+*CI/CD*
 - GitHub Actions
 
 **AI Collaborators**
@@ -98,15 +105,26 @@ This laboratory follows modern Quality Engineering practices:
 
 ---
 
+## Repository Structure
+Quality-Engineering-Lab/
+│
+├── docs/
+├── case-studies/
+│   ├── juice-shop/
+├── tooling/
+└── learning/
+---
+
 ## 🧪 Case Studies
 
 ### OWASP Juice Shop
-- Business Discovery
-- Risk Analysis
-- BDD
-- API Testing
-- UI Automation
-- Performance Testing
+- ✅ Business Discovery
+- ⬜ Risk Analysis
+- ⬜ Three Amigos
+- ⬜ BDD
+- ⬜ API Testing
+- ⬜ UI Automation
+- ⬜ Performance Testing
 
 ### Apache Fineract *(Coming Soon)*
 
