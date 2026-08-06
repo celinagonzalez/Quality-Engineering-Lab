@@ -2,7 +2,7 @@
 
 **Task:** TASK-001 - Review documentation
 **Story:** US-001 - Understand the Business Domain
-**Author:** [Your Name] (Quality Engineer)
+**Author:** Celina González Velázquez (Quality Engineer)
 **Reviewed with:** Claude (simulated Business Analyst / Technical Writer)
 **Date:** 2026-08-06
 
