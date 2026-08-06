@@ -2,7 +2,7 @@
 
 **Task:** TASK-001 - Review documentation
 **Story:** US-001 - Understand the Business Domain
-**Author:** Celina González Velázquez (Quality Engineer)
+**Author:** [Your Name] (Quality Engineer)
 **Reviewed with:** Claude (simulated Business Analyst / Technical Writer)
 **Date:** 2026-08-06
 
@@ -69,7 +69,7 @@ documentation and require direct exploration of the application
   incidental/undefined.
 - Whether product reviews are moderated or published immediately.
 - Whether all user roles observed in the UI (e.g., customer, admin)
-  are the only roles that exist, or if others are hidden/confirmed.
+  are the only roles that exist, or if others are hidden/unconfirmed.
 - Whether checkout without authentication is possible — not
   addressed in any official document; must be validated by
   exploring the app directly.
@@ -77,14 +77,35 @@ documentation and require direct exploration of the application
   length, required fields).
 
 These items will be tracked as open questions and validated in
-later discovery tasks (TASK-002 onward) and/or raised directly with
-the Product Owner before writing test scenarios.
+later discovery tasks and/or raised directly with the Product Owner
+before writing test scenarios.
+
+---
+
+## Limitations
+
+This review is intentionally limited to publicly available
+official documentation.
+
+No source code analysis was performed, as this laboratory
+follows a business-first, black-box discovery approach.
+
+---
+
+## Decision
+
+Business discovery will continue using a black-box exploration
+approach.
+
+Business rules not explicitly documented will be treated as
+assumptions until validated through application exploration or
+Product Owner clarification.
 
 ---
 
 ## Next Steps
 
-- Proceed to TASK-002 - Identify stakeholders, using the actors
-  referenced in the official documentation (customer/"Average Joe",
-  administrator) as a starting point, to be validated through
-  exploration.
+Proceed to TASK-002 - Explore the Application, using the actors
+referenced in the official documentation (customer/"Average Joe",
+administrator) as a starting point, to be validated through direct
+exploration of the app.
