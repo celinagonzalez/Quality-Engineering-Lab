@@ -69,7 +69,7 @@ documentation and require direct exploration of the application
   incidental/undefined.
 - Whether product reviews are moderated or published immediately.
 - Whether all user roles observed in the UI (e.g., customer, admin)
-  are the only roles that exist, or if others are hidden/未confirmed.
+  are the only roles that exist, or if others are hidden/confirmed.
 - Whether checkout without authentication is possible — not
   addressed in any official document; must be validated by
   exploring the app directly.
