@@ -32,11 +32,11 @@ The application environment has not been configured yet. Setting up OWASP Juice 
 ## Key Decisions
 SPRINT 1:
 
-• Sprint 0 closed; unfinished work was carried into Sprint 1.
-• Daily Scrum focuses on progress toward the Sprint Goal, not task reporting.
-• A prerequisite is not necessarily an impediment.
-• Application Exploration ≠ Exploratory Testing.
-• Discovery must distinguish facts, observations, assumptions and questions.
+- Sprint 0 closed; unfinished work was carried into Sprint 1.
+- Daily Scrum focuses on progress toward the Sprint Goal, not task reporting.
+- A prerequisite is not necessarily an impediment.
+- Application Exploration ≠ Exploratory Testing.
+- Discovery must distinguish facts, observations, assumptions and questions.
 
 ## Impediments
 
