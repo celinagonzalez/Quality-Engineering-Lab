@@ -23,12 +23,9 @@ No BDD scenarios or test cases are produced in this task.
 
 *Who uses the system?*
 
-| Actor | How it was identified | Notes |
+| Actor | Status | Source |
 |---|---|---|
-| | Observation / Inference | |
-
-**Open questions about actors:**
--
+| | Confirmed / Observation / Hypothesis | |
 
 ---
 
@@ -36,12 +33,9 @@ No BDD scenarios or test cases are produced in this task.
 
 *What can the system do?*
 
-| Capability | Description | Notes |
+| Capability | Status | Source |
 |---|---|---|
 | | | |
-
-**Open questions about capabilities:**
--
 
 ---
 
@@ -57,8 +51,7 @@ For each flow observed, briefly describe the sequence of steps
 2. Step
 3. Step
 
-**Open questions about this flow:**
--
+**Status:** Confirmed / Observation / Hypothesis
 
 ---
 
@@ -66,12 +59,11 @@ For each flow observed, briefly describe the sequence of steps
 
 *What conditions govern these processes?*
 
-| Observed Rule | Type | Source |
+| Finding | Status | Source |
 |---|---|---|
-| | Direct Observation / Hypothesis | Screen / action where it was observed |
-
-**Open questions about business rules:**
--
+| Users can register an account | Observation | Registration flow |
+| Authentication is required before checkout | Observation | Attempted action |
+| Customers can manage saved payment methods | Hypothesis | UI indication |
 
 ---
 
@@ -88,13 +80,13 @@ full screen-by-screen capture of the application.
 
 ---
 
-## 6. Open Questions (Consolidated)
+## 6. Open Questions
 
 *What can we not yet determine?*
 
-A consolidated list of all open questions raised across sections
-1–5, to be carried into TASK-005 (Document Assumptions) and
-TASK-006 (Prepare Questions for the PO).
+A consolidated list of open questions raised during exploration, to
+be carried into TASK-005 (Document Assumptions) and TASK-006
+(Prepare Questions for the PO).
 
 -
 
