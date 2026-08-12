@@ -5,7 +5,7 @@
 **Sprint:** Sprint 1
 **Author:** Celina (Quality Engineer)
 **Reviewed with:** Claude (simulated Product Owner / Business Analyst)
-**Date:** [YYYY-MM-DD]
+**Date:** 12-08-2026
 
 ---
 
