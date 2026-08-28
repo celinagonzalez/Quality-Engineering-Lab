@@ -1,11 +1,3 @@
-
----
-
-## `docs/ai-assisted-workflow.md`
-
-Aquí sí quiero que seas un poco más específica. **Este documento puede ser particularmente valioso para esa vacante**, porque ellos explícitamente trabajan con IA + Playwright y quieren alguien que no confíe ciegamente en la IA.
-
-```markdown
 # AI-Assisted Quality Engineering Workflow
 
 ## Purpose
