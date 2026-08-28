@@ -110,3 +110,53 @@ This laboratory follows modern Quality Engineering practices:
 ---
 
 ## Repository Structure
+-Quality-Engineering-Lab/
+-│
+-├── docs/
+-├── case-studies/
+-│ ├── juice-shop/
+-├── tooling/
+-└── learning/
+
+
+---
+
+## 🧪 Case Studies
+
+### OWASP Juice Shop
+
+Progress is updated incrementally as each sprint is completed.
+
+- ✅ Business Discovery
+- ⬜ Risk Analysis
+- ⬜ Three Amigos
+- ⬜ BDD
+- ⬜ API Testing
+- ⬜ UI Automation
+- ⬜ Performance Testing
+
+### Apache Fineract *(Coming Soon)*
+
+---
+
+## 🎯 Roadmap
+
+Each sprint represents a professional learning milestone and
+incrementally expands the laboratory capabilities.
+
+- [ ] **Sprint 0** — Project Initialization
+- [ ] **Sprint 1** — Business Discovery
+- [ ] **Sprint 2** — Authentication
+- [ ] **Sprint 3** — Shopping Experience
+- [ ] **Sprint 4** — Order Processing
+- [ ] **Sprint 5** — Performance Engineering
+- [ ] **Sprint 6** — Continuous Quality
+
+---
+
+## 📖 Learning Journey
+
+- Architecture Decision Records (ADR)
+- Research Notes
+- Lessons Learned
+- Retrospectives
