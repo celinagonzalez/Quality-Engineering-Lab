@@ -132,13 +132,14 @@ improve the testing approach.
 ---
 
 ## Repository Structure
--Quality-Engineering-Lab/
--│
--├── docs/
--├── case-studies/
--│ ├── juice-shop/
--│ ├── refund-workflow/
-
+```
+Quality-Engineering-Lab/
+│
+├── docs/
+├── case-studies/
+│   ├── juice-shop/
+│   ├── refund-workflow/
+```
 
 ---
 
