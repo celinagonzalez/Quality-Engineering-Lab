@@ -1,22 +1,31 @@
 # Quality Engineering Lab
 
-> A modern Quality Engineering portfolio focused on Shift-Left Testing,
-> AI-assisted workflows, API Testing, BDD, Test Automation, and
-> Performance Testing.
+> An evolving Quality Engineering laboratory focused on risk-based testing,
+> Shift-Left practices, API testing, test automation, performance engineering,
+> and responsible AI-assisted workflows.
 
 ---
 
 ## What is this repository?
 
-This repository documents a collection of real-world Quality Engineering
-case studies, covering the complete software delivery lifecycle — from
-product discovery and requirement analysis to API testing, automation,
-performance testing, and continuous quality practices.
+This repository is a practical Quality Engineering laboratory designed to
+explore and demonstrate professional QA practices across different stages
+of the software delivery lifecycle.
 
-Each case study simulates a real Agile team, with defined roles,
-structured workflows, and evidence-driven documentation — designed to
-demonstrate not just *how to test*, but *how to think* as a Quality
-Engineer across the entire SDLC.
+The laboratory focuses on developing a quality mindset that goes beyond
+test execution, including:
+
+- Understanding business context and requirements
+- Identifying risks before implementation
+- Designing tests based on business impact
+- Validating APIs, UI behavior, and data
+- Exploring test automation
+- Applying performance engineering practices
+- Using AI to support repetitive and analytical QA activities
+- Verifying AI-generated output through human review and evidence
+
+The repository is continuously evolving as new practices, tools, and
+case studies are developed.
 
 ---
 
@@ -61,15 +70,21 @@ flowchart TD
 
 ## Quality Engineering Principles
 
-This laboratory follows modern Quality Engineering practices:
+This laboratory is guided by the following principles:
 
-- Shift-Left Testing
-- Three Amigos Collaboration
-- Business-Driven Development (BDD)
-- Risk-Based Testing
-- AI-assisted Quality Engineering
-- Continuous Testing
-- Evidence-driven Documentation
+- Shift-Left Quality — identify quality risks as early as possible.
+- Risk-Based Testing — prioritize testing based on business and
+technical impact.
+- Evidence-Driven Decisions — conclusions should be supported by
+observable evidence.
+- Exploratory Thinking — actively investigate behavior that scripted
+tests may not cover.
+- Continuous Testing — progressively integrate testing into the
+software delivery lifecycle.
+- Human-Verified AI — AI-generated output is treated as a proposal,
+not as evidence.
+- Continuous Improvement — use findings and lessons learned to
+improve the testing approach.
 
 ---
 
@@ -122,8 +137,7 @@ This laboratory follows modern Quality Engineering practices:
 -├── docs/
 -├── case-studies/
 -│ ├── juice-shop/
--├── tooling/
--└── learning/
+-│ ├── refund-workflow/
 
 
 ---
