@@ -143,36 +143,22 @@ Quality-Engineering-Lab/
 
 ---
 
-## 🧪 Case Studies
-
-### OWASP Juice Shop
-
-Progress is updated incrementally as each sprint is completed.
-
-- ✅ Business Discovery
-- ⬜ Risk Analysis
-- ⬜ Three Amigos
-- ⬜ BDD
-- ⬜ API Testing
-- ⬜ UI Automation
-- ⬜ Performance Testing
-
-### Apache Fineract *(Coming Soon)*
-
----
 
 ## 🎯 Roadmap
 
-Each sprint represents a professional learning milestone and
-incrementally expands the laboratory capabilities.
+The laboratory is developed incrementally. Planned areas include:
 
-- [ ] **Sprint 0** — Project Initialization
-- [ ] **Sprint 1** — Business Discovery
-- [ ] **Sprint 2** — Authentication
-- [ ] **Sprint 3** — Shopping Experience
-- [ ] **Sprint 4** — Order Processing
-- [ ] **Sprint 5** — Performance Engineering
-- [ ] **Sprint 6** — Continuous Quality
+- [x] Repository initialization
+- [x] Quality Engineering foundations
+- [x] Business and application discovery
+- [x] Risk-based test design case study
+- [x] AI-assisted QA workflow definition
+- [ ] API testing
+- [ ] BDD/Gherkin implementation
+- [ ] Playwright automation
+- [ ] Performance testing with k6
+- [ ] CI/CD integration
+- [ ] Additional domain-focused case studies
 
 ---
 
