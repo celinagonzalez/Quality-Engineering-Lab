@@ -40,14 +40,21 @@ The main objectives are:
 
 ```mermaid
 flowchart TD
-    A[Business Discovery] --> B[Requirements Elicitation]
-    B --> C[Three Amigos]
-    C --> D[Risk Analysis]
-    D --> E[BDD]
-    E --> F[API Testing]
-    F --> G[UI Automation]
-    G --> H[Performance Testing]
-    H --> I[Continuous Improvement]
+    A[Discovery & Requirements]
+    B[Risk & Quality Analysis]
+    C[Test Design]
+    D[API / UI / Data Validation]
+    E[Automation]
+    F[Evidence & Defect Analysis]
+    G[Continuous Improvement]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> B
 ```
 
 ---
